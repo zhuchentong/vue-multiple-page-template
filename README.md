@@ -1,6 +1,18 @@
 # test
 
 > A Vue.js project
+> Vue多页面示例
+
+# 说明
+
+vue包含过个页面应用，示例中为module1和module2
+现在为手动添加htmlwebpackplugin，有空可以改为自动查找
+
+访问 lcoalhost:8080/模块名.html 进行访问,如http://localhost:8080/module1.html#/
+页面间使用vue-router进行跳转
+应用间使用href进行跳转
+
+for-mr.陈大肠
 
 ## Build Setup
 
